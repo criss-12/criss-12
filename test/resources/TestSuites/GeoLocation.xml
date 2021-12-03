@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="GeoLocationTests" verbose="1">
+
+	<test name="GeoLocationTests">
+		<classes>
+			<class name="geolocation.page.GeoLocationTests" />
+		</classes>
+	</test>
+
+
+</suite>
